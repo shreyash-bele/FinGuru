@@ -45,3 +45,30 @@ To set up the project locally:
 </p>
 
 
+## Usage
+
+### Add Expense:
+1. Click the "Add Expense" button to add a new expense.
+2. Enter the expense details:
+   - **Name**: A brief description of the expense.
+   - **Amount**: The cost of the expense.
+   - **Category**: Select a category from the available options.
+3. Click "Save" to add the expense.
+
+### View Expenses:
+1. Navigate to the dashboard to view your monthly expenses.
+2. Expenses will be categorized based on the selected category, providing a clear overview of your spending.
+
+### Edit or Delete Expense:
+1. Click on an existing expense to edit or delete it.
+2. Edit the expense details and click "Save" to update.
+3. Click "Delete" to remove the expense.
+
+## Contributing
+
+Contributions are welcome! Feel free to submit pull requests or open issues if you encounter any problems or have suggestions for improvement.
+
+## License
+
+This project is licensed under the MIT License.
+
