@@ -34,5 +34,14 @@ To set up the project locally:
    ```bash
    npm start
    ```
+
 ## Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/396a89fa-fca9-4849-a434-0602bb355cd4" alt="Screenshot 1" style="margin-right: 20px;">
+  <img src="https://github.com/user-attachments/assets/f7298325-eb08-4eaa-beff-43b52ced98d4" alt="Screenshot 2" style="margin-right: 20px;">
+  <img src="https://github.com/user-attachments/assets/25d1886a-dce2-49ea-8790-abc9da38ec06" alt="Screenshot 3" style="margin-right: 20px;">
+  <img src="https://github.com/user-attachments/assets/b132e672-13a4-4e09-b25b-18b9c513a649" alt="Screenshot 4">
+</p>
+
 
